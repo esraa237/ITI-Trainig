@@ -1,0 +1,15 @@
+E:\visual-projects\week3 iti\day7\day7\bin\Debug\net6.0\day7.exe
+E:\visual-projects\week3 iti\day7\day7\bin\Debug\net6.0\day7.deps.json
+E:\visual-projects\week3 iti\day7\day7\bin\Debug\net6.0\day7.runtimeconfig.json
+E:\visual-projects\week3 iti\day7\day7\bin\Debug\net6.0\day7.dll
+E:\visual-projects\week3 iti\day7\day7\bin\Debug\net6.0\day7.pdb
+E:\visual-projects\week3 iti\day7\day7\obj\Debug\net6.0\day7.csproj.AssemblyReference.cache
+E:\visual-projects\week3 iti\day7\day7\obj\Debug\net6.0\day7.GeneratedMSBuildEditorConfig.editorconfig
+E:\visual-projects\week3 iti\day7\day7\obj\Debug\net6.0\day7.AssemblyInfoInputs.cache
+E:\visual-projects\week3 iti\day7\day7\obj\Debug\net6.0\day7.AssemblyInfo.cs
+E:\visual-projects\week3 iti\day7\day7\obj\Debug\net6.0\day7.csproj.CoreCompileInputs.cache
+E:\visual-projects\week3 iti\day7\day7\obj\Debug\net6.0\day7.dll
+E:\visual-projects\week3 iti\day7\day7\obj\Debug\net6.0\refint\day7.dll
+E:\visual-projects\week3 iti\day7\day7\obj\Debug\net6.0\day7.pdb
+E:\visual-projects\week3 iti\day7\day7\obj\Debug\net6.0\day7.genruntimeconfig.cache
+E:\visual-projects\week3 iti\day7\day7\obj\Debug\net6.0\ref\day7.dll

@@ -1,0 +1,122 @@
+{
+  "format": 1,
+  "restore": {
+    "F:\\ITI-Trainig\\week3_C#\\Day6\\Day6\\Menu.csproj": {}
+  },
+  "projects": {
+    "F:\\ITI-Trainig\\week3_C#\\Day6\\Day6\\Menu.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\ITI-Trainig\\week3_C#\\Day6\\Day6\\Menu.csproj",
+        "projectName": "Menu",
+        "projectPath": "F:\\ITI-Trainig\\week3_C#\\Day6\\Day6\\Menu.csproj",
+        "packagesPath": "C:\\Users\\mass\\.nuget\\packages\\",
+        "outputPath": "F:\\ITI-Trainig\\week3_C#\\Day6\\Day6\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\mass\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "F:\\ITI-Trainig\\week3_C#\\Day6\\EmployeeL\\EmployeeL.csproj": {
+                "projectPath": "F:\\ITI-Trainig\\week3_C#\\Day6\\EmployeeL\\EmployeeL.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "F:\\ITI-Trainig\\week3_C#\\Day6\\EmployeeL\\EmployeeL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\ITI-Trainig\\week3_C#\\Day6\\EmployeeL\\EmployeeL.csproj",
+        "projectName": "EmployeeL",
+        "projectPath": "F:\\ITI-Trainig\\week3_C#\\Day6\\EmployeeL\\EmployeeL.csproj",
+        "packagesPath": "C:\\Users\\mass\\.nuget\\packages\\",
+        "outputPath": "F:\\ITI-Trainig\\week3_C#\\Day6\\EmployeeL\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\mass\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

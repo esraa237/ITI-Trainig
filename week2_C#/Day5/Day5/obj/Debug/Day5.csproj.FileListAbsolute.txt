@@ -1,0 +1,8 @@
+E:\visual-projects\Day2 iti\Day5\Day5\bin\Debug\Day5.exe.config
+E:\visual-projects\Day2 iti\Day5\Day5\bin\Debug\Day5.exe
+E:\visual-projects\Day2 iti\Day5\Day5\bin\Debug\Day5.pdb
+E:\visual-projects\Day2 iti\Day5\Day5\obj\Debug\Day5.csproj.AssemblyReference.cache
+E:\visual-projects\Day2 iti\Day5\Day5\obj\Debug\Day5.csproj.SuggestedBindingRedirects.cache
+E:\visual-projects\Day2 iti\Day5\Day5\obj\Debug\Day5.csproj.CoreCompileInputs.cache
+E:\visual-projects\Day2 iti\Day5\Day5\obj\Debug\Day5.exe
+E:\visual-projects\Day2 iti\Day5\Day5\obj\Debug\Day5.pdb

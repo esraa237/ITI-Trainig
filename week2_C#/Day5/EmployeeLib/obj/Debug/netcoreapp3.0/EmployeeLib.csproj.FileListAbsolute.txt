@@ -1,0 +1,5 @@
+E:\visual-projects\Day2 iti\Day5\EmployeeLib\obj\Debug\netcoreapp3.0\EmployeeLib.csproj.AssemblyReference.cache
+E:\visual-projects\Day2 iti\Day5\EmployeeLib\obj\Debug\netcoreapp3.0\EmployeeLib.GeneratedMSBuildEditorConfig.editorconfig
+E:\visual-projects\Day2 iti\Day5\EmployeeLib\obj\Debug\netcoreapp3.0\EmployeeLib.AssemblyInfoInputs.cache
+E:\visual-projects\Day2 iti\Day5\EmployeeLib\obj\Debug\netcoreapp3.0\EmployeeLib.AssemblyInfo.cs
+E:\visual-projects\Day2 iti\Day5\EmployeeLib\obj\Debug\netcoreapp3.0\EmployeeLib.csproj.CoreCompileInputs.cache

@@ -1,0 +1,18 @@
+E:\visual-projects\Day2 iti\Day5\Menu v2\bin\Debug\net6.0\Menu v2.exe
+E:\visual-projects\Day2 iti\Day5\Menu v2\bin\Debug\net6.0\Menu v2.deps.json
+E:\visual-projects\Day2 iti\Day5\Menu v2\bin\Debug\net6.0\Menu v2.runtimeconfig.json
+E:\visual-projects\Day2 iti\Day5\Menu v2\bin\Debug\net6.0\Menu v2.dll
+E:\visual-projects\Day2 iti\Day5\Menu v2\bin\Debug\net6.0\Menu v2.pdb
+E:\visual-projects\Day2 iti\Day5\Menu v2\bin\Debug\net6.0\EmployeeLib.dll
+E:\visual-projects\Day2 iti\Day5\Menu v2\bin\Debug\net6.0\EmployeeLib.pdb
+E:\visual-projects\Day2 iti\Day5\Menu v2\obj\Debug\net6.0\Menu v2.csproj.AssemblyReference.cache
+E:\visual-projects\Day2 iti\Day5\Menu v2\obj\Debug\net6.0\Menu v2.GeneratedMSBuildEditorConfig.editorconfig
+E:\visual-projects\Day2 iti\Day5\Menu v2\obj\Debug\net6.0\Menu v2.AssemblyInfoInputs.cache
+E:\visual-projects\Day2 iti\Day5\Menu v2\obj\Debug\net6.0\Menu v2.AssemblyInfo.cs
+E:\visual-projects\Day2 iti\Day5\Menu v2\obj\Debug\net6.0\Menu v2.csproj.CoreCompileInputs.cache
+E:\visual-projects\Day2 iti\Day5\Menu v2\obj\Debug\net6.0\Menu v2.csproj.CopyComplete
+E:\visual-projects\Day2 iti\Day5\Menu v2\obj\Debug\net6.0\Menu v2.dll
+E:\visual-projects\Day2 iti\Day5\Menu v2\obj\Debug\net6.0\refint\Menu v2.dll
+E:\visual-projects\Day2 iti\Day5\Menu v2\obj\Debug\net6.0\Menu v2.pdb
+E:\visual-projects\Day2 iti\Day5\Menu v2\obj\Debug\net6.0\Menu v2.genruntimeconfig.cache
+E:\visual-projects\Day2 iti\Day5\Menu v2\obj\Debug\net6.0\ref\Menu v2.dll

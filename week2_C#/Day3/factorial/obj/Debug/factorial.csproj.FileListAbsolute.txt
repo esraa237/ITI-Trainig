@@ -1,0 +1,8 @@
+E:\visual-projects\Day2 iti\Day3 iti\factorial\bin\Debug\factorial.exe.config
+E:\visual-projects\Day2 iti\Day3 iti\factorial\bin\Debug\factorial.exe
+E:\visual-projects\Day2 iti\Day3 iti\factorial\bin\Debug\factorial.pdb
+E:\visual-projects\Day2 iti\Day3 iti\factorial\obj\Debug\factorial.csproj.AssemblyReference.cache
+E:\visual-projects\Day2 iti\Day3 iti\factorial\obj\Debug\factorial.csproj.SuggestedBindingRedirects.cache
+E:\visual-projects\Day2 iti\Day3 iti\factorial\obj\Debug\factorial.csproj.CoreCompileInputs.cache
+E:\visual-projects\Day2 iti\Day3 iti\factorial\obj\Debug\factorial.exe
+E:\visual-projects\Day2 iti\Day3 iti\factorial\obj\Debug\factorial.pdb

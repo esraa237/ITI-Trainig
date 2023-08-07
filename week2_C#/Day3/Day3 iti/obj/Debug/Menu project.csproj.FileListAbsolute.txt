@@ -1,0 +1,8 @@
+E:\visual-projects\week2 iti\Day3 iti\Day3 iti\bin\Debug\Day3 iti.exe.config
+E:\visual-projects\week2 iti\Day3 iti\Day3 iti\bin\Debug\Day3 iti.exe
+E:\visual-projects\week2 iti\Day3 iti\Day3 iti\bin\Debug\Day3 iti.pdb
+E:\visual-projects\week2 iti\Day3 iti\Day3 iti\obj\Debug\Menu project.csproj.AssemblyReference.cache
+E:\visual-projects\week2 iti\Day3 iti\Day3 iti\obj\Debug\Menu project.csproj.SuggestedBindingRedirects.cache
+E:\visual-projects\week2 iti\Day3 iti\Day3 iti\obj\Debug\Menu project.csproj.CoreCompileInputs.cache
+E:\visual-projects\week2 iti\Day3 iti\Day3 iti\obj\Debug\Day3 iti.exe
+E:\visual-projects\week2 iti\Day3 iti\Day3 iti\obj\Debug\Day3 iti.pdb

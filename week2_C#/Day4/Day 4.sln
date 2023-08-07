@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Complex num", "Day 4\Complex num.csproj", "{71043D04-03DC-4187-8EC8-FD45364C229E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Menu project", "..\..\week2 iti\Day3 iti\Day3 iti\Menu project.csproj", "{B4EA7D53-04C6-4F0E-9FF9-E5772BA52627}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{71043D04-03DC-4187-8EC8-FD45364C229E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71043D04-03DC-4187-8EC8-FD45364C229E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71043D04-03DC-4187-8EC8-FD45364C229E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71043D04-03DC-4187-8EC8-FD45364C229E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B4EA7D53-04C6-4F0E-9FF9-E5772BA52627}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4EA7D53-04C6-4F0E-9FF9-E5772BA52627}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4EA7D53-04C6-4F0E-9FF9-E5772BA52627}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4EA7D53-04C6-4F0E-9FF9-E5772BA52627}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1192BC24-3CFC-4792-8A72-A52EA08DFABD}
+	EndGlobalSection
+EndGlobal

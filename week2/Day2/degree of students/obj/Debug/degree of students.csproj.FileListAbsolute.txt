@@ -1,0 +1,8 @@
+E:\visual-projects\Day2 iti\degree of students\degree of students\bin\Debug\degree of students.exe.config
+E:\visual-projects\Day2 iti\degree of students\degree of students\bin\Debug\degree of students.exe
+E:\visual-projects\Day2 iti\degree of students\degree of students\bin\Debug\degree of students.pdb
+E:\visual-projects\Day2 iti\degree of students\degree of students\obj\Debug\degree of students.csproj.AssemblyReference.cache
+E:\visual-projects\Day2 iti\degree of students\degree of students\obj\Debug\degree of students.csproj.SuggestedBindingRedirects.cache
+E:\visual-projects\Day2 iti\degree of students\degree of students\obj\Debug\degree of students.csproj.CoreCompileInputs.cache
+E:\visual-projects\Day2 iti\degree of students\degree of students\obj\Debug\degree of students.exe
+E:\visual-projects\Day2 iti\degree of students\degree of students\obj\Debug\degree of students.pdb

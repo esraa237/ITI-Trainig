@@ -1,0 +1,8 @@
+E:\visual-projects\Day2 iti\jagged array task\jagged array task\bin\Debug\jagged array task.exe.config
+E:\visual-projects\Day2 iti\jagged array task\jagged array task\bin\Debug\jagged array task.exe
+E:\visual-projects\Day2 iti\jagged array task\jagged array task\bin\Debug\jagged array task.pdb
+E:\visual-projects\Day2 iti\jagged array task\jagged array task\obj\Debug\jagged array task.csproj.AssemblyReference.cache
+E:\visual-projects\Day2 iti\jagged array task\jagged array task\obj\Debug\jagged array task.csproj.SuggestedBindingRedirects.cache
+E:\visual-projects\Day2 iti\jagged array task\jagged array task\obj\Debug\jagged array task.csproj.CoreCompileInputs.cache
+E:\visual-projects\Day2 iti\jagged array task\jagged array task\obj\Debug\jagged array task.exe
+E:\visual-projects\Day2 iti\jagged array task\jagged array task\obj\Debug\jagged array task.pdb

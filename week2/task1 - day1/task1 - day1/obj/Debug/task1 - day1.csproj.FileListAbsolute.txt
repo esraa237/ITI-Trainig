@@ -1,8 +1,0 @@
-F:\ITI-Trainig\week2\task1 - day1\task1 - day1\bin\Debug\task1 - day1.exe.config
-F:\ITI-Trainig\week2\task1 - day1\task1 - day1\bin\Debug\task1 - day1.exe
-F:\ITI-Trainig\week2\task1 - day1\task1 - day1\bin\Debug\task1 - day1.pdb
-F:\ITI-Trainig\week2\task1 - day1\task1 - day1\obj\Debug\task1 - day1.csproj.AssemblyReference.cache
-F:\ITI-Trainig\week2\task1 - day1\task1 - day1\obj\Debug\task1 - day1.csproj.SuggestedBindingRedirects.cache
-F:\ITI-Trainig\week2\task1 - day1\task1 - day1\obj\Debug\task1 - day1.csproj.CoreCompileInputs.cache
-F:\ITI-Trainig\week2\task1 - day1\task1 - day1\obj\Debug\task1 - day1.exe
-F:\ITI-Trainig\week2\task1 - day1\task1 - day1\obj\Debug\task1 - day1.pdb

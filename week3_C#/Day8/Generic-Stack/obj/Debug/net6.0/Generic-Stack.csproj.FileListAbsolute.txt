@@ -1,0 +1,15 @@
+F:\ITI-Trainig\week3_C#\Day8\Generic-Stack\bin\Debug\net6.0\Generic-Stack.exe
+F:\ITI-Trainig\week3_C#\Day8\Generic-Stack\bin\Debug\net6.0\Generic-Stack.deps.json
+F:\ITI-Trainig\week3_C#\Day8\Generic-Stack\bin\Debug\net6.0\Generic-Stack.runtimeconfig.json
+F:\ITI-Trainig\week3_C#\Day8\Generic-Stack\bin\Debug\net6.0\Generic-Stack.dll
+F:\ITI-Trainig\week3_C#\Day8\Generic-Stack\bin\Debug\net6.0\Generic-Stack.pdb
+F:\ITI-Trainig\week3_C#\Day8\Generic-Stack\obj\Debug\net6.0\Generic-Stack.csproj.AssemblyReference.cache
+F:\ITI-Trainig\week3_C#\Day8\Generic-Stack\obj\Debug\net6.0\Generic-Stack.GeneratedMSBuildEditorConfig.editorconfig
+F:\ITI-Trainig\week3_C#\Day8\Generic-Stack\obj\Debug\net6.0\Generic-Stack.AssemblyInfoInputs.cache
+F:\ITI-Trainig\week3_C#\Day8\Generic-Stack\obj\Debug\net6.0\Generic-Stack.AssemblyInfo.cs
+F:\ITI-Trainig\week3_C#\Day8\Generic-Stack\obj\Debug\net6.0\Generic-Stack.csproj.CoreCompileInputs.cache
+F:\ITI-Trainig\week3_C#\Day8\Generic-Stack\obj\Debug\net6.0\Generic-Stack.dll
+F:\ITI-Trainig\week3_C#\Day8\Generic-Stack\obj\Debug\net6.0\refint\Generic-Stack.dll
+F:\ITI-Trainig\week3_C#\Day8\Generic-Stack\obj\Debug\net6.0\Generic-Stack.pdb
+F:\ITI-Trainig\week3_C#\Day8\Generic-Stack\obj\Debug\net6.0\Generic-Stack.genruntimeconfig.cache
+F:\ITI-Trainig\week3_C#\Day8\Generic-Stack\obj\Debug\net6.0\ref\Generic-Stack.dll

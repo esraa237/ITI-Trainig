@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Day8/1.0.0": {
+        "dependencies": {
+          "Employeelib": "1.0.0"
+        },
+        "runtime": {
+          "Day8.dll": {}
+        }
+      },
+      "Employeelib/1.0.0": {
+        "runtime": {
+          "Employeelib.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Day8/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Employeelib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

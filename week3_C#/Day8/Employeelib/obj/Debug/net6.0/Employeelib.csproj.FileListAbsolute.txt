@@ -1,0 +1,12 @@
+F:\ITI-Trainig\week3_C#\Day8\Employeelib\bin\Debug\net6.0\Employeelib.deps.json
+F:\ITI-Trainig\week3_C#\Day8\Employeelib\bin\Debug\net6.0\Employeelib.dll
+F:\ITI-Trainig\week3_C#\Day8\Employeelib\bin\Debug\net6.0\Employeelib.pdb
+F:\ITI-Trainig\week3_C#\Day8\Employeelib\obj\Debug\net6.0\Employeelib.csproj.AssemblyReference.cache
+F:\ITI-Trainig\week3_C#\Day8\Employeelib\obj\Debug\net6.0\Employeelib.GeneratedMSBuildEditorConfig.editorconfig
+F:\ITI-Trainig\week3_C#\Day8\Employeelib\obj\Debug\net6.0\Employeelib.AssemblyInfoInputs.cache
+F:\ITI-Trainig\week3_C#\Day8\Employeelib\obj\Debug\net6.0\Employeelib.AssemblyInfo.cs
+F:\ITI-Trainig\week3_C#\Day8\Employeelib\obj\Debug\net6.0\Employeelib.csproj.CoreCompileInputs.cache
+F:\ITI-Trainig\week3_C#\Day8\Employeelib\obj\Debug\net6.0\Employeelib.dll
+F:\ITI-Trainig\week3_C#\Day8\Employeelib\obj\Debug\net6.0\refint\Employeelib.dll
+F:\ITI-Trainig\week3_C#\Day8\Employeelib\obj\Debug\net6.0\Employeelib.pdb
+F:\ITI-Trainig\week3_C#\Day8\Employeelib\obj\Debug\net6.0\ref\Employeelib.dll

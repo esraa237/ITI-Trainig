@@ -1,0 +1,12 @@
+F:\ITI-Trainig\week3_C#\Day9\Employeee\bin\Debug\net6.0\Employeee.deps.json
+F:\ITI-Trainig\week3_C#\Day9\Employeee\bin\Debug\net6.0\Employeee.dll
+F:\ITI-Trainig\week3_C#\Day9\Employeee\bin\Debug\net6.0\Employeee.pdb
+F:\ITI-Trainig\week3_C#\Day9\Employeee\obj\Debug\net6.0\Employeee.csproj.AssemblyReference.cache
+F:\ITI-Trainig\week3_C#\Day9\Employeee\obj\Debug\net6.0\Employeee.GeneratedMSBuildEditorConfig.editorconfig
+F:\ITI-Trainig\week3_C#\Day9\Employeee\obj\Debug\net6.0\Employeee.AssemblyInfoInputs.cache
+F:\ITI-Trainig\week3_C#\Day9\Employeee\obj\Debug\net6.0\Employeee.AssemblyInfo.cs
+F:\ITI-Trainig\week3_C#\Day9\Employeee\obj\Debug\net6.0\Employeee.csproj.CoreCompileInputs.cache
+F:\ITI-Trainig\week3_C#\Day9\Employeee\obj\Debug\net6.0\Employeee.dll
+F:\ITI-Trainig\week3_C#\Day9\Employeee\obj\Debug\net6.0\refint\Employeee.dll
+F:\ITI-Trainig\week3_C#\Day9\Employeee\obj\Debug\net6.0\Employeee.pdb
+F:\ITI-Trainig\week3_C#\Day9\Employeee\obj\Debug\net6.0\ref\Employeee.dll

@@ -1,0 +1,12 @@
+E:\visual-projects\week3 iti\day7\EmployeeLibrary\bin\Debug\net6.0\EmployeeLibrary.deps.json
+E:\visual-projects\week3 iti\day7\EmployeeLibrary\bin\Debug\net6.0\EmployeeLibrary.dll
+E:\visual-projects\week3 iti\day7\EmployeeLibrary\bin\Debug\net6.0\EmployeeLibrary.pdb
+E:\visual-projects\week3 iti\day7\EmployeeLibrary\obj\Debug\net6.0\EmployeeLibrary.csproj.AssemblyReference.cache
+E:\visual-projects\week3 iti\day7\EmployeeLibrary\obj\Debug\net6.0\EmployeeLibrary.GeneratedMSBuildEditorConfig.editorconfig
+E:\visual-projects\week3 iti\day7\EmployeeLibrary\obj\Debug\net6.0\EmployeeLibrary.AssemblyInfoInputs.cache
+E:\visual-projects\week3 iti\day7\EmployeeLibrary\obj\Debug\net6.0\EmployeeLibrary.AssemblyInfo.cs
+E:\visual-projects\week3 iti\day7\EmployeeLibrary\obj\Debug\net6.0\EmployeeLibrary.csproj.CoreCompileInputs.cache
+E:\visual-projects\week3 iti\day7\EmployeeLibrary\obj\Debug\net6.0\EmployeeLibrary.dll
+E:\visual-projects\week3 iti\day7\EmployeeLibrary\obj\Debug\net6.0\refint\EmployeeLibrary.dll
+E:\visual-projects\week3 iti\day7\EmployeeLibrary\obj\Debug\net6.0\EmployeeLibrary.pdb
+E:\visual-projects\week3 iti\day7\EmployeeLibrary\obj\Debug\net6.0\ref\EmployeeLibrary.dll

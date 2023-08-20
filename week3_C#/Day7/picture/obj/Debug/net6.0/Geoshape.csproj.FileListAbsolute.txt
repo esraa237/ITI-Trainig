@@ -1,0 +1,15 @@
+E:\visual-projects\week3 iti\day7\picture\bin\Debug\net6.0\Geoshape.exe
+E:\visual-projects\week3 iti\day7\picture\bin\Debug\net6.0\Geoshape.deps.json
+E:\visual-projects\week3 iti\day7\picture\bin\Debug\net6.0\Geoshape.runtimeconfig.json
+E:\visual-projects\week3 iti\day7\picture\bin\Debug\net6.0\Geoshape.dll
+E:\visual-projects\week3 iti\day7\picture\bin\Debug\net6.0\Geoshape.pdb
+E:\visual-projects\week3 iti\day7\picture\obj\Debug\net6.0\Geoshape.csproj.AssemblyReference.cache
+E:\visual-projects\week3 iti\day7\picture\obj\Debug\net6.0\Geoshape.GeneratedMSBuildEditorConfig.editorconfig
+E:\visual-projects\week3 iti\day7\picture\obj\Debug\net6.0\Geoshape.AssemblyInfoInputs.cache
+E:\visual-projects\week3 iti\day7\picture\obj\Debug\net6.0\Geoshape.AssemblyInfo.cs
+E:\visual-projects\week3 iti\day7\picture\obj\Debug\net6.0\Geoshape.csproj.CoreCompileInputs.cache
+E:\visual-projects\week3 iti\day7\picture\obj\Debug\net6.0\Geoshape.dll
+E:\visual-projects\week3 iti\day7\picture\obj\Debug\net6.0\refint\Geoshape.dll
+E:\visual-projects\week3 iti\day7\picture\obj\Debug\net6.0\Geoshape.pdb
+E:\visual-projects\week3 iti\day7\picture\obj\Debug\net6.0\Geoshape.genruntimeconfig.cache
+E:\visual-projects\week3 iti\day7\picture\obj\Debug\net6.0\ref\Geoshape.dll

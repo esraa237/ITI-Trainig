@@ -11,14 +11,17 @@
     <title>Index</title>
     <link rel="stylesheet" href="/lib/bootstrap/dist/css/bootstrap.css" />
 </head>
-<body>
-    <table class="table table-bordered table-hover">
-        <thead>
+<body >
+    
+    <table class="table table-bordered table-hover ">
+        <thead >
             <tr>
                 <th>ID</th>
                 <th>Name</th>
                 <th>Age</th>
-               @*<th></th>*@
+                <th>Department</th>
+                <th></th>
+               
             </tr>
         </thead>
         @foreach(var item in Model){
@@ -26,9 +29,25 @@
             <td>@item.Id</td>
             <td>@item.Name</td>
             <td>@item.Age</td>
-          @* <td><input type="button" value="Edit" class="btn btn-danger"/></td>*@
+            <td>
+                @foreach(var dep in ViewBag.departments)
+                {
+                    @if(@item.DeptNum==@dep.DeptId)
+                    {
+                        @dep.DeptName
+                    }
+                }
+            </td>
+           <td>
+                    <a href="/Student/Details/@item.Id"> <input type="button" value="Details" class="btn btn-primary" /></a>
+                    <a href="/Student/Edit/@item.Id"><input type="button" value="Edit" class="btn btn-success" /></a>
+                    <a href="/Student/Delete/@item.Id"><input type="button" onclick="return confirm('Are You Sure')" value="Delete" class="btn btn-danger" /></a>
+           </td>
         </tr>
         }
     </table>
+    <a href="/student/create"><input type="button" value="Add Student" class="btn btn-warning btn-lg " /></a>
+    <a href="/department/index"><input type="button" value="Departments" class="btn btn-info btn-lg " /></a>
+
 </body>
 </html>

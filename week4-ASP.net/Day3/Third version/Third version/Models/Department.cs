@@ -11,5 +11,11 @@ namespace Third_version.Models
         public int DeptId { get; set; }
         [StringLength(30)]
         public string DeptName { get; set; }
+        
+        public ICollection<Student> Students { get; set; }
+        public Department()
+        {
+            Students = new HashSet<Student>();
+        }
     }
 }

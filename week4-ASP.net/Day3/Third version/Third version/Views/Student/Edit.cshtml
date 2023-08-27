@@ -1,4 +1,4 @@
-﻿
+﻿@model Student
 @{
     Layout = null;
 }
@@ -12,12 +12,20 @@
     <link rel="stylesheet" href="/lib/bootstrap/dist/css/bootstrap.css" />
 </head>
 <body>
-    <form action="Edit" method="post">
+    <form method="post">
         <br />
-        <lable class="form-label">Student ID  </lable><input type="text"  class="input-group-lg" />
-        <lable class="form-label">Student Name  </lable><input type="text" name="Name" class="input-group-lg" /><br />
-        <lable class="form-label">Student Age  </lable><input type="text" name="Age" class="input-group-lg" /><br />
-        <input type="submit" value="Add" class="btn btn-danger" />
+        <lable class="form-label">Student ID  </lable><input type="text" disabled class="input-group-lg" value="@Model.Id" />
+        <lable class="form-label">Student Name  </lable><input type="text" name="Name" class="input-group-lg" value="@Model.Name" /><br />
+        <lable class="form-label">Student Age  </lable><input type="text" name="Age" class="input-group-lg" value="@Model.Age" /><br />
+        <lable class="form-label">Department </lable>
+        <select name="DeptNum">
+            @foreach (var item in ViewBag.departments)
+            {
+                <option value="@item.DeptId">@item.DeptName</option>
+            }
+        </select>
+        <br />
+        <input type="submit" value="Edit" class="btn btn-danger" />
     </form>
 </body>
 </html>

@@ -23,9 +23,14 @@
         {
             <tr>
                 <td>@item.DeptId</td>
-                <td>@item.DeptName</td>          
+                <td>@item.DeptName</td>
+                <td>
+                    <a href="/department/Details/@item.DeptId"> <input type="button" value="Details" class="btn btn-primary" /></a>
+                    <a href="/department/Delete/@item.DeptId"><input type="button" onclick="return confirm('Are You Sure')" value="Delete" class="btn btn-danger" /></a>
+                </td>
             </tr>
         }
     </table>
+    <a href="/department/create"><input type="button" value="Add Department" class="btn btn-warning" /></a>
 </body>
 </html>

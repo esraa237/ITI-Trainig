@@ -1,4 +1,5 @@
 ﻿using Microsoft.AspNetCore.Mvc;
+using Third_version.BLL;
 using Third_version.Models;
 
 namespace Third_version.Controllers
@@ -18,7 +19,9 @@ namespace Third_version.Controllers
         [HttpGet]
         public IActionResult Create()
         {
-              return View();
+            DepartmentBLL model = new DepartmentBLL();
+            ViewBag.departments = model.GetAll();
+            return View();
         }
         [HttpPost]
         public IActionResult Create(Student student)
@@ -28,21 +31,38 @@ namespace Third_version.Controllers
             return RedirectToAction("Index");
 
         }
-        //[HttpGet]
-        //public IActionResult Edit()
-        //{
-        //    return View();
-        //}
-        //[HttpPost]
-        //public IActionResult Edit(Student student)
-        //{
-        //    dp.Students.Update(student);
-        //    dp.SaveChanges();
-        //    return RedirectToAction("Index");
-        //}
+
+        public IActionResult Edit(int? id)
+        {
+            if (id == null) return BadRequest();
+            Student student = dp.Students.SingleOrDefault(a => a.Id == id);
+            if (student == null) return NotFound();
+            DepartmentBLL model = new DepartmentBLL();
+            ViewBag.departments = model.GetAll();
+            return View(student);
+        }
+        [HttpPost]
+        public IActionResult Edit(Student std)
+        {
+            dp.Students.Update(std);
+            dp.SaveChanges();
+            return RedirectToAction("index");
+        }
+        public IActionResult Delete(int? id)
+        {
+            if (id == null) return BadRequest();
+            Student student = dp.Students.SingleOrDefault(a => a.Id == id);
+            if (student == null) return NotFound();
+            dp.Students.Remove(student);
+            dp.SaveChanges();
+            return RedirectToAction("index");
+        }
+        
         public IActionResult Index()
         {
             var model = dp.Students.ToList();
+            DepartmentBLL model2 = new DepartmentBLL();
+            ViewBag.departments = model2.GetAll();
             return View(model);
         }
     }

@@ -1,21 +1,12 @@
 ﻿
 @{
-    Layout = null;
+    Layout = "~/views/shared/_Layout2.cshtml";
+    ViewBag.Title = "Create";
 }
 
-<!DOCTYPE html>
-
-<html>
-<head>
-    <meta name="viewport" content="width=device-width" />
-    <title>Create</title>
-    <link rel="stylesheet" href="/lib/bootstrap/dist/css/bootstrap.css" />
-</head>
-<body>
     <form action="Create" method="post">
         <br />
         <lable class="form-label">Department Name  </lable><input type="text" name="DeptName" class="input-group-lg" /><br />
         <br /><input type="submit" value="Add" class="btn btn-danger" />
     </form>
-</body>
-</html>
+

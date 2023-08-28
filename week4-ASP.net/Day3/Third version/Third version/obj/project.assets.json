@@ -10691,11 +10691,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\ITI-Trainig\\week4-ASP.net\\Day3\\Third version\\Third version\\Third version.csproj",
+      "projectUniqueName": "E:\\ITI-Trainig\\week4-ASP.net\\Day3\\Third version\\Third version\\Third version.csproj",
       "projectName": "Third version",
-      "projectPath": "F:\\ITI-Trainig\\week4-ASP.net\\Day3\\Third version\\Third version\\Third version.csproj",
+      "projectPath": "E:\\ITI-Trainig\\week4-ASP.net\\Day3\\Third version\\Third version\\Third version.csproj",
       "packagesPath": "C:\\Users\\mass\\.nuget\\packages\\",
-      "outputPath": "F:\\ITI-Trainig\\week4-ASP.net\\Day3\\Third version\\Third version\\obj\\",
+      "outputPath": "E:\\ITI-Trainig\\week4-ASP.net\\Day3\\Third version\\Third version\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\mass\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,19 +1,11 @@
 ﻿@model Department
 @{
-    Layout = null;
+    Layout = "~/views/shared/_Layout2.cshtml";
+    ViewBag.Title = "Details";
 }
 
-<!DOCTYPE html>
 
-<html>
-<head>
-    <meta name="viewport" content="width=device-width" />
-    <title>Details</title>
-</head>
-<body>
     <h3 style="color:blue">Department Show</h3>
     <h4>@Model.DeptId:@Model.DeptName</h4>
     <a href="/Department/index"><input type="button" value="Back" class="btn btn-primary"></input></a>
 
-</body>
-</html>

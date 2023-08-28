@@ -1,17 +1,10 @@
 ﻿@model IEnumerable<Student>
 @{
-    Layout = null;
+    Layout = "~/views/shared/_Layout2.cshtml";
+    ViewBag.Title = "Index";
 }
 
-<!DOCTYPE html>
 
-<html>
-<head>
-    <meta name="viewport" content="width=device-width" />
-    <title>Index</title>
-    <link rel="stylesheet" href="/lib/bootstrap/dist/css/bootstrap.css" />
-</head>
-<body >
     
     <table class="table table-bordered table-hover ">
         <thead >
@@ -49,5 +42,3 @@
     <a href="/student/create"><input type="button" value="Add Student" class="btn btn-warning btn-lg " /></a>
     <a href="/department/index"><input type="button" value="Departments" class="btn btn-info btn-lg " /></a>
 
-</body>
-</html>

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "NTcWE5i5lkJknkzcJo2Coe/Mgqv4U46tmY2DF/uXzxkIWTuMiuO/PA1mGoOvpGi3SRx7NDBPou/8nc07hYBBlQ==",
+  "dgSpecHash": "SDb0JqnLIafybFf6bjRGwM2hS18krDGxCnXs8VlrRMu/OclUjAcNvEEAfRq0bbTLD6/4FrwlZWASLQqjVXe1vw==",
   "success": true,
-  "projectFilePath": "F:\\ITI-Trainig\\week4-ASP.net\\Day3\\Third version\\Third version\\Third version.csproj",
+  "projectFilePath": "E:\\ITI-Trainig\\week4-ASP.net\\Day3\\Third version\\Third version\\Third version.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mass\\.nuget\\packages\\humanizer\\2.14.1\\humanizer.2.14.1.nupkg.sha512",
     "C:\\Users\\mass\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",

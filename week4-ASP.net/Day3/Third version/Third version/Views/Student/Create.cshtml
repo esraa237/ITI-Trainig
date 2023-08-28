@@ -1,30 +1,37 @@
-﻿
+﻿@model Student
 @{
-    Layout = null;
+    Layout = "~/views/shared/_Layout2.cshtml";
+    ViewBag.Title = "Create";
 }
 
-<!DOCTYPE html>
 
-<html>
-<head>
-    <meta name="viewport" content="width=device-width" />
-    <title>studentcreate</title>
-    <link rel="stylesheet" href="/lib/bootstrap/dist/css/bootstrap.css" />
-</head>
-<body>
     <form  method="post">
         <br />
-        <lable class="form-label">Student Name  </lable><input type="text" name="Name" class="input-group-lg"/><br/>
-        <br /> <lable class="form-label">Student Age  </lable><input type="text" name="Age" class="input-group-lg" /><br />
+        <lable class="form-label">Student Name  </lable><input asp-for="Name" class="input-group-lg"/>
+        <span asp-validation-for="Name"></span><br />
+        
+        <br /> <lable class="form-label">Student Age </lable><input asp-for="Age" class="input-group-lg" />
+        <span asp-validation-for="Age"></span><br />
+        <br /> <lable class="form-label">Email  </lable><input asp-for="Email" class="input-group-lg" />
+        <span asp-validation-for="Email"></span><br />
+        <br /><label asp-for="Password"></label> <input type="password" asp-for="Password" class="input-group-lg" />
+        <span asp-validation-for="Password"></span><br />
+        <br /> <label asp-for="Cpassword"></label><input type="password" asp-for="Cpassword" class="input-group-lg" />
+        <span asp-validation-for="Cpassword"></span><br />
         <br /><lable class="form-label">Department  </lable>
-        <select name="DeptNum">
-            @foreach(var item in ViewBag.departments){
+        <select name="DeptNum" asp-for="DeptNum" asp-items="ViewBag.departments">
+            <option>Select Department</option>
+            @*@foreach(var item in ViewBag.departments){
                 <option value="@item.DeptId">@item.DeptName</option>
-            }
+            }*@
         </select>
+        <span asp-validation-for="DeptNum"></span><br />
         <br />
         <br /><input type="submit" value="Add" class="btn btn-danger"/>
 
     </form>
-</body>
-</html>
+   @section scripts
+   {
+    <script src="/lib/jquery-validation/dist/jquery.validate.js"></script>
+    <script src="~/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js"></script>
+   }

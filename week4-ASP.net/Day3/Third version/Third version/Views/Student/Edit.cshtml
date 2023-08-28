@@ -1,22 +1,16 @@
 ﻿@model Student
 @{
-    Layout = null;
+    Layout = "~/views/shared/_Layout2.cshtml";
+    ViewBag.Title = "Edit";
 }
 
-<!DOCTYPE html>
-
-<html>
-<head>
-    <meta name="viewport" content="width=device-width" />
-    <title>Edit</title>
-    <link rel="stylesheet" href="/lib/bootstrap/dist/css/bootstrap.css" />
-</head>
-<body>
     <form method="post">
         <br />
         <lable class="form-label">Student ID  </lable><input type="text" disabled class="input-group-lg" value="@Model.Id" />
         <lable class="form-label">Student Name  </lable><input type="text" name="Name" class="input-group-lg" value="@Model.Name" /><br />
         <lable class="form-label">Student Age  </lable><input type="text" name="Age" class="input-group-lg" value="@Model.Age" /><br />
+        <lable class="form-label">password  </lable><input type="text" name="Password" class="input-group-lg" value="@Model.Password" /><br />
+        <lable class="form-label">Email </lable><input type="text" name="Email" class="input-group-lg" value="@Model.Email" /><br />
         <lable class="form-label">Department </lable>
         <select name="DeptNum">
             @foreach (var item in ViewBag.departments)
@@ -27,5 +21,4 @@
         <br />
         <input type="submit" value="Edit" class="btn btn-danger" />
     </form>
-</body>
-</html>
+
